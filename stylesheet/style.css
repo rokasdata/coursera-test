@@ -1,7 +1,15 @@
+body {
+	width: 500px;
+	margin: auto;
+}
 h1 {
-	color:red;
+	color:blue;
 }
 li {
 	font-family: Century Gothic;
 	font-weight: bolder;
+}
+.message {
+	width: 400px;
+	height: 200px;
 }
