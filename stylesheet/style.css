@@ -9,7 +9,8 @@ li {
 	font-family: Century Gothic;
 	font-weight: bolder;
 }
-.message {
+
+#message {
 	width: 400px;
 	height: 200px;
 }
