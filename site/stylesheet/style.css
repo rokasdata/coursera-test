@@ -1,0 +1,64 @@
+
+#wraper {
+	width: 800px;
+	height:500px;
+	background: #ccc;
+	margin: auto;
+	position: relative;
+}
+.list  {
+	float: right;
+}
+.list li {
+	display: inline;
+	margin-left: 0;
+	font-size: 2em;
+
+}
+.list li a{
+	text-decoration: none;
+	padding: 10px;
+
+}
+h2 {
+	margin: 10px 20px 10px;
+	padding-top: 20px;
+	font-size: 2em;
+	
+}
+form {
+	width: 400px;
+	position: absolute;
+	top: 80px;
+
+}
+form h2 {
+	top: 30px;
+}
+form ul {
+	list-style-type: none;
+}
+form ul li{
+	display: block;
+	font-size: 1.5em;
+}
+form input {
+	font-size: 1.5em;
+	padding-left: 15px;
+	border: rgb(103, 103, 103) 1px solid;
+	width:100%;
+
+}
+textarea  select {
+	font-size: 1.5em;
+	padding-left: 15px;
+	border: rgb(103, 103, 103) 1px solid;
+	width:100%;
+
+}
+
+#button {
+	width: 375px;
+	font-size: 1em;
+	background: rgb(148, 58, 238);
+}
